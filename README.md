@@ -2,7 +2,7 @@
 
 This repository hosts my GitHub Pages portfolio site.
 
-Live site: https://eli1254.github.io
+Live site: https://Eli1254.github.io
 
 Projects include:
 - Mechanical and electrical engineering coursework
